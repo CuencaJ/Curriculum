@@ -1,0 +1,34 @@
+.imagen 
+{
+    margin: 10px; 
+    border: 2px solid black; 
+    float: center;
+    width: 100px; 
+}
+
+.informacion
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.estudios
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.experiencias
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.capacitaciones
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.referencias
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
